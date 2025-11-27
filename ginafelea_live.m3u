@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ginafelea.ddns.net:8008
-# Generated: 2025-11-27 07:00:55
+# Generated: 2025-11-27 18:29:58
 # Expires: 2027-01-18
 # Family Safe Edition
 # ==============================================
@@ -186,6 +186,8 @@ http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/492739.m3u8
 http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/492740.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMXh5H8Q/VOYO-EVENTS.jpg" group-title="⚜️ROMANIA TV⚜️",VOYO EVENTS 5
 http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/492741.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMXh5H8Q/VOYO-EVENTS.jpg" group-title="⚜️ROMANIA TV⚜️",VOYO EVENTS 6
+http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/540348.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfGCfDBT/DIGI-SPORT-1-UHD.jpg" group-title="⚜️ROMANIA TV⚜️",DIGI SPORT 1 UHD
 http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/33796.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmTnsPqD/DIGI-SPORT-1-HD.jpg" group-title="⚜️ROMANIA TV⚜️",DIGI SPORT 1 HD
@@ -780,8 +782,6 @@ http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/498365.m3u8
 http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/498361.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzc7CNjf/61gu3-QX74-L.png" group-title="⚜️ROMANIA TV⚜️",NionTV Special: Thriller
 http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/498359.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzc7CNjf/61gu3-QX74-L.png" group-title="⚜️ROMANIA TV⚜️",NionTV Action
-http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/498358.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjD2MWmM/logo.gif" group-title="⚜️ROMANIA TV⚜️",ATV TURKISH SERIES
 http://ginafelea.ddns.net:8008/live/Ilie@Cristian/mzAkNg65JU/503500.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsgFT5Hz/logo.gif" group-title="⚜️ROMANIA TV⚜️",NOVACAST VACANTA MARE

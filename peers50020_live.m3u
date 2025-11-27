@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: peers50020.cdngold.me
-# Generated: 2025-11-27 06:59:09
+# Generated: 2025-11-27 18:30:06
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -4313,22 +4313,26 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1174195.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ",DE: DAZN MOTO AMERICA ᴿᴬᵂ
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1174193.m3u8
 
-# --- DE| DAZN PPV (49) ---
+# --- DE| DAZN PPV (51) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vCPR3CSF/DAZN-Logo-Gif.gif" group-title="DE| DAZN PPV",##### DAZN PPV #####
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/299317.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 1 - FLAMES @ LIGHTNING | Thu 27 Nov 00:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919838.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 2 - FLYERS @ PANTHERS | Thu 27 Nov 00:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919837.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 4 - BRUINS @ ISLANDERS | Thu 27 Nov 00:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919836.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919835.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 5 - SABRES @ PENGUINS | Thu 27 Nov 00:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919834.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 6 - JETS @ CAPITALS | Thu 27 Nov 00:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919833.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 7 - RANGERS @ HURRICANES | Thu 27 Nov 00:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919832.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 9 - EINTRACHT FRANKFURT - ATALANTA | Wed 26 Nov 20:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919831.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919830.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919829.m3u8
@@ -4449,13 +4453,11 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/412295.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV SKY GO",DE GO: DAZN 17 HD [LIVE-EVENT]
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/412294.m3u8
 
-# --- DE| DISCOVERY+ PPV (101) ---
+# --- DE| DISCOVERY+ PPV (100) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Animated-Flag-Germany.gif" group-title="DE| DISCOVERY+ PPV",###### DISCOVERY+ PPV  ######
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/924351.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: DPLUS PPV 1 - EM | VORRUNDE | Thu 27 Nov 12:55 | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/924350.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/924349.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/924348.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
@@ -6294,9 +6296,9 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/816704.m3u8
 # --- DE| NOW TV SPORTS PPV (51) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Animated-Flag-Germany.gif" group-title="DE| NOW TV SPORTS PPV",####### NOW TV PPV #######
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1055929.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 1 - NBA: DETROIT PISTONS @ BOSTON CELTICS | Wed 26 Nov 23:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 1 - PRESSEKONFERENZEN LIVE | Thu 27 Nov 12:00 | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1055928.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 2 - NHL: NASHVILLE PREDATORS @ DETROIT RED WINGS | Thu 27 Nov 01:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 2 - NO EVENT STREAMING -
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1055927.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 3 - NO EVENT STREAMING -
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1055926.m3u8
@@ -7750,7 +7752,7 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1324769.m3u8
 # --- DE| SPORT EUROPE PPV (101) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Animated-Flag-Germany.gif" group-title="DE| SPORT EUROPE PPV",##### SPORT EUROPE PPV #####
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1035021.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 1 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 1 - DIE PRESSEKONFERENZ VOR DEM WOCHENENDE MIT DEN SPIELTAGEN 19 UND 20 | Thu 27 Nov 10:55
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1035020.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13803.png?ver=87378" group-title="DE| SPORT EUROPE PPV",DE: SPORT DEUTSCHLAND PPV 2 - NO EVENT STREAMING -
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1035019.m3u8
@@ -12062,7 +12064,7 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/612878.m3u8
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/612877.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="UK| DAZN PPV VIP",UK: DAZN PPV HEVC 4K
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/612876.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 1 - TENNESSEE TECH @ KENTUCKY | Thu 27 Nov 00:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 1 - RIYADH RACING SEASON RACE NIGHT 7 | Thu 27 Nov 12:40 | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/941097.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/941096.m3u8
@@ -12126,9 +12128,9 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/941068.m3u8
 # --- UK| DISCOVERY+ PPV (101) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| DISCOVERY+ PPV",####### DISCOVERY+ PPV #######
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/938876.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="UK| DISCOVERY+ PPV",UK: D+ PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="UK| DISCOVERY+ PPV",UK: D+ PPV 1 - WRC | Thu 27 Nov 10:44 | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/938875.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="UK| DISCOVERY+ PPV",UK: D+ PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="UK| DISCOVERY+ PPV",UK: D+ PPV 2 - SCOTLAND - ITALY | Thu 27 Nov 12:00 | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/938874.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="UK| DISCOVERY+ PPV",UK: D+ PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/938873.m3u8
@@ -14518,7 +14520,7 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/617897.m3u8
 # --- UK| PEACOCK PPV (31) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| PEACOCK PPV",####### PEACOCK PPV #######
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1078527.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="UK| PEACOCK PPV",US: PEACOCK PPV 1 - QF: FC JUÁREZ VS. TOLUCA (ESPAÑOL) | Thu 27 Nov 01:30 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="UK| PEACOCK PPV",UK: NOW TV PPV 1 - NO EVENT STREAMING -
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1078526.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="UK| PEACOCK PPV",UK: NOW TV PPV 2 - NO EVENT STREAMING -
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1078525.m3u8
@@ -16614,13 +16616,13 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1176212.m3u8
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/605805.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13707.jpeg?ver=13111" group-title="UK| TRILLER TV PPV",Fite TV | 24/7
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/605821.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13707.jpeg?ver=13111" group-title="UK| TRILLER TV PPV",Triller TV | Event 1 Budweiser Guns N Hoses 2025 // UK Wed 26 Nov 11:15pm // ET Wed 26 Nov 6:15pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13707.jpeg?ver=13111" group-title="UK| TRILLER TV PPV",Triller TV | Event 1 IBC II Fight For Glory Raza Hamza vs Richman Ashelley // UK Thu 27 Nov 1:00pm // ET Thu 27 Nov 8:00am
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/605820.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13707.jpeg?ver=13111" group-title="UK| TRILLER TV PPV",Triller TV | Event 2 AEW Dynamite Episode 4825 Thanksgiving Eve // UK Thu 27 Nov 1:00am // ET Wed 26 Nov 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13707.jpeg?ver=13111" group-title="UK| TRILLER TV PPV",Triller TV | Event 2 UIM F1H2O World Championship 2025 Grand Prix of Jeddah Saudi Arabia Day 1 Qualifying // UK Fri 28 Nov 7:00am // ET Fri 28 Nov 2:00am
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/605819.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13707.jpeg?ver=13111" group-title="UK| TRILLER TV PPV",Triller TV | Event 3 wXw 25th Anniversary Tour Hamburg Day 2 Fight Forever PreShow // UK Sat 22 Nov 5:35pm // ET Sat 22 Nov 12:35pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13707.jpeg?ver=13111" group-title="UK| TRILLER TV PPV",Triller TV | Event 3 FEI Ride Originals Season 6 Episode 8 Legends Legacy Henson Homecoming & Dotty Delights // UK Thu 27 Nov 3:00pm // ET Thu 27 Nov 10:00am
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/605818.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13707.jpeg?ver=13111" group-title="UK| TRILLER TV PPV",Triller TV | Event 4 wXw 25th Anniversary Tour Hamburg Day 2 // UK Sat 22 Nov 6:00pm // ET Sat 22 Nov 1:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13707.jpeg?ver=13111" group-title="UK| TRILLER TV PPV",Triller TV | Event 4 International Brawling Championship 02 // UK Fri 28 Nov 8:30am // ET Fri 28 Nov 3:30am
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/605817.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13707.jpeg?ver=13111" group-title="UK| TRILLER TV PPV",Triller TV | Event 5 Memphis Wrestling Episode 247 Womens Championship Showdown // UK Sat 15 Nov 5:00pm // ET Sat 15 Nov 12:00pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/605816.m3u8
@@ -16660,77 +16662,77 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1456083.m3u8
 # --- UK| UEFA PPV (37) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| UEFA PPV",###### UEFA PPV ######
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993060.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA  | 01 - Copenhagen vs Kairat 5:45pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA  | 01 - Aston Villa vs Young Boys 5:45pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993059.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA  | 02- Pafos vs Monaco 5:45pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA  | 02- Fenerbahce vs Ferencvaros 5:45pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993058.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 03 - UCL Goals Show 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 03 - Feyenoord vs Celtics 5:45pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993057.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 04 - Arsenal vs Bayern Munich 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 04 - Lille vs Dinamo Zagreb 5:45pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993056.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 05 - Atletico Madrid vs Inter Milan 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 05 - Ludogorets vs Celta Vigo 5:45pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993055.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 06 - Frankfurt vs Atalanta 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 06 - Paok vs Brann 5:45pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993054.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 07 - Liverpool vs PSV 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 07 - Porto vs Nice 5:45pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993053.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 08 - Olympiakos vs Real Madrid 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 08 - Roma vs Midtjylland 5:45pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993052.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 09 -  PSG vs Tottenham 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 09 -  Viktoria Plzen vs Freiburg 5:45pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993051.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA |10 - Sporting vs Club Brugge 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA |10 - Bologna vs Rb Salzburg 8:00pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993050.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 11 - Bologna vs Brann 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 11 - Crvena Zvesda vs FCSB 8:00pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993049.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 12 - Braga vs Genk 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 12 - Genk vs Basel 8:00pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993048.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 13 - Ferencvaros vs Ludogorets 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 13 - Go Ahead Eagles vs Stuttgart 8:00pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993047.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 14 - Paok vs Young Boys 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 14 - Maccabi Tel Aviv vs Lyon 8:00pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993046.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 15 - Rangers vs Roma 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 15 - Nottingham Forest vs Malmo 8:00pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993045.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA  | 16 - Real Betis vs Lyon 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA  | 16 - Panathinaikos vs Sturm Graz 8:00pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993044.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 17 - Stuttgart vs Feyenoord 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 17 - Rangers vs Braga 8:00pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993043.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 18 - Viktoria Plzen vs Fenerbahce 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 18 - Real Betis vs Braga 8:00pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993042.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA  | 19 - Aek Athens vs Shamrock Rovers 5:45pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA  | 19 - Az vs Shelbourne 5:45pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993041.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 20 - Aek Larnaca vs Aberdeen 5:45pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 20 - Hamrun Sprtans vs Lincoln Red IMPS 5:45pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993040.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 21 - Celje vs Legia Warszawa 5:45pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 21 - Lech Poznan vs Lausanne 5:45pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993039.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 22 - Kups vs Slovan Bratislava 5:45pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 22 - Omonia Nicosia vs Dynamo Kyiv 5:45pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993038.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 23 - Malmo vs Panathinaikos 5:45pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 23 - Rakow Czestochowa vs Rapid Vienna 5:45pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993037.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 24 - Noah vs Sigma Olomuc 5:45pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 24 - Celje vs Sigma Olomuc 5:45pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993036.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 25 - Samsunspor vs Hamrun Spartans 5:45pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 25 - Sk Slovan vs Rayo Vallecano 5:45pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993035.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 26 - Lille v KÍ Klaksvík 20.00
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993034.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 27 - Sparta Prague vs Rakow 5:45pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 27 - Srinjski vs Hacken 5:45pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993033.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 28 - Crystal Palace vs Az 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 28 - Aberdeen vs Noah 8:00pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993032.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 29 - Dynamo Kyiv vs Zrinjski 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 29 - Breidablik vs Samsunspor 8:00pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993031.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 30 - Hacken vs Strasbourg 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 30 - Drita vs Shkendija 8:00pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993030.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 31 - Lausanne vs Omonia Nicosia 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 31 - Fiorentina vs Aek Athens 8:00pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993029.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 32 - Lincoln Red Imps vs Rijeka 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 32 - Jagiellonia vs KuPS 8:00pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/993028.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 33 - Rapid Vienna vs Universitatea vs Craiova 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 33 - Legia Warsawa vs Sparta Prague 8:00pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1595097.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 34 - Rayo Vallecano vs Lech Poznan 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 34 - Rijeka vs Aek Larnaca 8:00pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1595096.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 35 - Shelbourne vs Drita  8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 35 - Shamrock Rovers vs Shakhtar 8:00pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1595095.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 36 - Shkendija vs Jagiellonia 8:00pm
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="UK| UEFA PPV",UEFA | 36 - Strasbourg vs Crystal Palace 8:00pm
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1595094.m3u8
 
 # --- UK| UFC PPV (12) ---
@@ -16860,13 +16862,13 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1537891.m3u8
 # --- UK| VOLLEY BALL WORLD PPV (31) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| VOLLEY BALL WORLD PPV",####### VOLLEY PPV #######
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538848.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 1 - NO EVENT STREAMING - 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 1 - NIPPON STEEL SAKAI BLAZERS - JTEKT STINGS AICHI | ROUND 6-A | Thu 27 Nov 09:55 | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538847.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 2 - ITAMBE MINAS - VOLEI RENATA | ROUND 7 | Wed 26 Nov 23:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 2 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538846.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 3 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538845.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 4 - SUZANO VOLEI - PRAIA CLUBE UBERLANDIA VOLEI | ROUND 7 | Wed 26 Nov 21:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 4 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538844.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 5 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538843.m3u8
@@ -16921,4 +16923,4 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538819.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 30 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538818.m3u8
 
-# Total: 8273
+# Total: 8274

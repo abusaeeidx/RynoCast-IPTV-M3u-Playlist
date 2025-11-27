@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: dk.2665.ninja:8080
-# Generated: 2025-11-27 07:01:56
+# Generated: 2025-11-27 18:27:57
 # Expires: 2026-02-28
 # Family Safe Edition
 # ==============================================
@@ -13119,7 +13119,15 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/476418.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dhejMQdsqPtTTCKIkyoJ5FLfC3F.jpg" group-title="Movies | (V|DE) Filme - 2023",(DE-) A Good Person - 2023
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/476415.mp4
 
-# --- Movies | (V|DE) Filme - 2024 (681) ---
+# --- Movies | (V|DE) Filme - 2024 (685) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/cJaBmgIf57qE56S5zxm7xws2lZP_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) What Lurks Beneath - 2024
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/646491.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vzmpHMRaTY4wJ0DhXbx5DVvDUAj_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) Vermiglio - 2024
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/646490.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ymxoUzvr9xl02N2XZh8VamB5ajT_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Devils Thumb: Ein Höllischer Aufstieg - 2024
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/646489.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vF7p86p3shNy3xOKggPZjVAWgVu_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) Erbsünde: Veil Of Sin - 2024
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/646487.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1p9fM8C7e6kfzY6totsZUE7a4tJ_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) Vier Mütter Für Edward - 2024
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/644141.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/spJJCe4rntGxu9YXDEw2r5hz5oq_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Night Before Christmas In Wonderland - 2024
@@ -14483,7 +14491,17 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/635442.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dh8mS9Zzhplmr0Q80BKw0dibZUS_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Break-Up Club - 2024
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/634880.mp4
 
-# --- Movies | (V|DE) Filme - 2025 (408) ---
+# --- Movies | (V|DE) Filme - 2025 (412) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/98JYjLElGk8cHYd2FT0DLK11CcJ_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Zwei Welten, Ein Herzenswunsch - 2025
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/646495.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/izTH8rYFW9l1zJIQCqVnA748iJb_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Die Rache Der Polly McClusky - 2025
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/646494.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/kPX2wEYwjwOYks4tiMwqLOjUfnI_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Jingle Bell Heist: Der Große Weihnachtsraub - 2025
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/646493.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/5Byv6nznAb2Izd0gHpODOXnuSbo_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Icefall: Bis Das Eis bricht - 2025
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/646488.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ouZ2oNvMHffc7UdmaY3qirrEeMW_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Black Phone 2 - 2025
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/646486.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1Aiq3YJuV96IVIZleLe6SE4i9Oo_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Die Unfassbaren 3: Now You See Me - 2025
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/644139.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/l3zS4YnpOi4usyEXGJMtxSqDDyb_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Train Dreams - 2025
@@ -14600,8 +14618,6 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/640490.mp4
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/640489.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/9Vw55if08RssFMaOjkMuAVBlHtg_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Chainsaw Man: The Movie Reze Arc - 2025
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/640487.mp4
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ouZ2oNvMHffc7UdmaY3qirrEeMW_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Black Phone 2 - 2025
-http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/640486.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/cSIoQ7FsDbH3hYe1BCHWKcViUUo_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Aileen: Queen Of The Serial Killers - 2025
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/639949.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/kz6oqKyKCjmR8V1JdnF9brp9DSn_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Dogs - 2025
@@ -16005,4 +16021,4 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/248353.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/10625.mp4
 
-# Total: 7983
+# Total: 7991
