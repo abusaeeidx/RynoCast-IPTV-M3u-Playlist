@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ginafelea.ddns.net:8008
-# Generated: 2025-11-27 04:41:35
+# Generated: 2025-11-27 07:00:56
 # Expires: 2027-01-18
 # Family Safe Edition
 # ==============================================
@@ -969,7 +969,7 @@ http://ginafelea.ddns.net:8008/movie/Ilie@Cristian/mzAkNg65JU/4907.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - COMEDIE⚡",Étoile
 http://ginafelea.ddns.net:8008/movie/Ilie@Cristian/mzAkNg65JU/4908.mp4
 
-# --- Movies | ⚡SERIALE - DRAMA - CRIME⚡ (341) ---
+# --- Movies | ⚡SERIALE - DRAMA - CRIME⚡ (347) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - DRAMA - CRIME⚡",Good Trouble (2019)
 http://ginafelea.ddns.net:8008/movie/Ilie@Cristian/mzAkNg65JU/5014.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - DRAMA - CRIME⚡",13 Commandments
@@ -1652,6 +1652,18 @@ http://ginafelea.ddns.net:8008/movie/Ilie@Cristian/mzAkNg65JU/5128.mp4
 http://ginafelea.ddns.net:8008/movie/Ilie@Cristian/mzAkNg65JU/5129.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - DRAMA - CRIME⚡",Des
 http://ginafelea.ddns.net:8008/movie/Ilie@Cristian/mzAkNg65JU/5130.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - DRAMA - CRIME⚡",Desperate Lies
+http://ginafelea.ddns.net:8008/movie/Ilie@Cristian/mzAkNg65JU/5133.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - DRAMA - CRIME⚡",Destiny
+http://ginafelea.ddns.net:8008/movie/Ilie@Cristian/mzAkNg65JU/5134.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - DRAMA - CRIME⚡",Detective Anna
+http://ginafelea.ddns.net:8008/movie/Ilie@Cristian/mzAkNg65JU/5135.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - DRAMA - CRIME⚡",Detective Forst
+http://ginafelea.ddns.net:8008/movie/Ilie@Cristian/mzAkNg65JU/5136.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - DRAMA - CRIME⚡",Devil in Ohio
+http://ginafelea.ddns.net:8008/movie/Ilie@Cristian/mzAkNg65JU/5137.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - DRAMA - CRIME⚡",Devils
+http://ginafelea.ddns.net:8008/movie/Ilie@Cristian/mzAkNg65JU/5138.mp4
 
 # --- Movies | ⚡SERIALE - REALITY⚡ (19) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - REALITY⚡",Alaskan Bush People
@@ -27547,4 +27559,4 @@ http://ginafelea.ddns.net:8008/movie/Ilie@Cristian/mzAkNg65JU/529436.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTjIUBmo7qbiu5FuvSoBA0UONWk.jpg" group-title="Movies | ✨FILME - WESTERN✨",The Big Country - 1958
 http://ginafelea.ddns.net:8008/movie/Ilie@Cristian/mzAkNg65JU/529437.mkv
 
-# Total: 13735
+# Total: 13741

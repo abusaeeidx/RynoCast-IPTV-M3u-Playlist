@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: peers50020.cdngold.me
-# Generated: 2025-11-27 04:40:34
+# Generated: 2025-11-27 06:59:09
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -4313,32 +4313,30 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1174195.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ",DE: DAZN MOTO AMERICA ᴿᴬᵂ
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1174193.m3u8
 
-# --- DE| DAZN PPV (50) ---
+# --- DE| DAZN PPV (49) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vCPR3CSF/DAZN-Logo-Gif.gif" group-title="DE| DAZN PPV",##### DAZN PPV #####
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/299317.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 1 - FLAMES @ LIGHTNING | Thu 27 Nov 00:50 | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919838.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 2 - FLYERS @ PANTHERS | Thu 27 Nov 00:50 | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919837.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919836.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 4 - BRUINS @ ISLANDERS | Thu 27 Nov 00:50 | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919835.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 5 - SABRES @ PENGUINS | Thu 27 Nov 00:50 | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919834.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 6 - JETS @ CAPITALS | Thu 27 Nov 00:50 | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919833.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 7 - ARSENAL - FC BAYERN MÜNCHEN | Wed 26 Nov 20:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 7 - RANGERS @ HURRICANES | Thu 27 Nov 00:50 | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919832.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 8 - LATE WEDNESDAY'S CONFERENCE | MATCHDAY 5 | Wed 26 Nov 20:50 | 8K EXCLUSIVE
-http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919831.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 9 - EINTRACHT FRANKFURT - ATALANTA | Wed 26 Nov 20:50 | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919830.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919829.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919828.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919827.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 13 - ATLETICO MADRID - INTERNAZIONALE | Wed 26 Nov 20:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919826.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DE| DAZN PPV",DE: DAZN PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/919825.m3u8
@@ -4454,17 +4452,17 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/412294.m3u8
 # --- DE| DISCOVERY+ PPV (101) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Animated-Flag-Germany.gif" group-title="DE| DISCOVERY+ PPV",###### DISCOVERY+ PPV  ######
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/924351.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: DPLUS PPV 1 - JOE O'CONNOR - BEN WOOLLASTON | Wed 26 Nov 20:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/924350.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: DPLUS PPV 2 - JAMIE CLARKE - ZHOU YUELONG  | Wed 26 Nov 20:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/924349.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/924348.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: DPLUS PPV 4 - ELLIOT SLESSOR - ZAK SURETY  | Wed 26 Nov 20:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/924347.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: DPLUS PPV 5 - UK CHAMPIONSHIP | JUDGEMENT DAY | 2. SESSION | Wed 26 Nov 20:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/924346.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: DPLUS PPV 6 - SCOTT DONALDSON - STUART BINGHAM  | Wed 26 Nov 20:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/924345.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/924344.m3u8
@@ -6298,7 +6296,7 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/816704.m3u8
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1055929.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 1 - NBA: DETROIT PISTONS @ BOSTON CELTICS | Wed 26 Nov 23:00 | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1055928.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 2 - LATE NIGHT NEWS | Wed 26 Nov 23:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 2 - NHL: NASHVILLE PREDATORS @ DETROIT RED WINGS | Thu 27 Nov 01:00 | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1055927.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13809.png?ver=88754" group-title="DE| NOW TV SPORTS PPV",DE: NOW TV PPV 3 - NO EVENT STREAMING -
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1055926.m3u8
@@ -12064,7 +12062,7 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/612878.m3u8
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/612877.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="UK| DAZN PPV VIP",UK: DAZN PPV HEVC 4K
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/612876.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 1 - TENNESSEE TECH @ KENTUCKY | Thu 27 Nov 00:50 | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/941097.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/941096.m3u8
@@ -12130,19 +12128,19 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/941068.m3u8
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/938876.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="UK| DISCOVERY+ PPV",UK: D+ PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/938875.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="UK| DISCOVERY+ PPV",UK: D+ PPV 2 - JOE O'CONNOR - BEN WOOLLASTON | Wed 26 Nov 19:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="UK| DISCOVERY+ PPV",UK: D+ PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/938874.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="UK| DISCOVERY+ PPV",UK: D+ PPV 3 - SCOTT DONALDSON - STUART BINGHAM  | Wed 26 Nov 19:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="UK| DISCOVERY+ PPV",UK: D+ PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/938873.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="UK| DISCOVERY+ PPV",UK: D+ PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/938872.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="UK| DISCOVERY+ PPV",UK: D+ PPV 5 - JAMIE CLARKE - ZHOU YUELONG  | Wed 26 Nov 19:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="UK| DISCOVERY+ PPV",UK: D+ PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/938871.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="UK| DISCOVERY+ PPV",UK: D+ PPV 6 - ELLIOT SLESSOR - ZAK SURETY  | Wed 26 Nov 19:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="UK| DISCOVERY+ PPV",UK: D+ PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/938870.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="UK| DISCOVERY+ PPV",UK: D+ PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/938869.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="UK| DISCOVERY+ PPV",UK: D+ PPV 8 - JUDGEMENT DAY | PART 2 | Wed 26 Nov 19:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="UK| DISCOVERY+ PPV",UK: D+ PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/938868.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="UK| DISCOVERY+ PPV",UK: D+ PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/938867.m3u8
@@ -14520,7 +14518,7 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/617897.m3u8
 # --- UK| PEACOCK PPV (31) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| PEACOCK PPV",####### PEACOCK PPV #######
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1078527.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="UK| PEACOCK PPV",UK: NOW TV PPV 1 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="UK| PEACOCK PPV",US: PEACOCK PPV 1 - QF: FC JUÁREZ VS. TOLUCA (ESPAÑOL) | Thu 27 Nov 01:30 | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1078526.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="UK| PEACOCK PPV",UK: NOW TV PPV 2 - NO EVENT STREAMING -
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1078525.m3u8
@@ -16862,15 +16860,15 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1537891.m3u8
 # --- UK| VOLLEY BALL WORLD PPV (31) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| VOLLEY BALL WORLD PPV",####### VOLLEY PPV #######
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538848.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 1 - TIJUCA TENIS CLUBE - RENASCE SOROCABA | ROUND 7 | Wed 26 Nov 21:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 1 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538847.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 2 - STEAM HEMARPOL POLITECHNIKA CZĘSTOCHOWA - CUPRUM STILON GORZOW | ROUND 8 | Wed 26 Nov 19:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 2 - ITAMBE MINAS - VOLEI RENATA | ROUND 7 | Wed 26 Nov 23:50 | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538846.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 3 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538845.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 4 - SUZANO VOLEI - PRAIA CLUBE UBERLANDIA VOLEI | ROUND 7 | Wed 26 Nov 21:20 | 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538844.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 5 - VIAPOL SAO JOSE - SADA CRUZEIRO | ROUND 7 | Wed 26 Nov 21:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 5 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538843.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 6 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538842.m3u8
@@ -16923,4 +16921,4 @@ http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538819.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14412.jpg?ver=23684" group-title="UK| VOLLEY BALL WORLD PPV",UK: VOLLEY PPV 30 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://peers50020.cdngold.me/live/4853b1a7ac37/2c18278473/1538818.m3u8
 
-# Total: 8274
+# Total: 8273
