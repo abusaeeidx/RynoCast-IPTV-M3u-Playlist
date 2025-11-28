@@ -2,7 +2,7 @@ name: Auto Sync Fork
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *" # every 6 hours
   workflow_dispatch:
 
 jobs:
@@ -14,19 +14,19 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Configure git
+      - name: Set Git identity
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
 
-      - name: Add upstream
+      - name: Add upstream remote
         run: |
           git remote add upstream https://github.com/IPTVFlixBD/RynoCast-IPTV-M3u-Playlist.git
           git fetch upstream
 
-      - name: Merge upstream changes
+      - name: Rebase fork on upstream
         run: |
-          git merge upstream/main --allow-unrelated-histories || true
+          git rebase upstream/main || true
 
       - name: Push changes
         run: |
